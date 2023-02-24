@@ -81,6 +81,7 @@ public class MobilBrowserTesting {
 
         driver.findElement(By.xpath("//*[@id='ap_customer_name']"))
                 .sendKeys("Hasan sacikara" + Keys.ENTER);
+
     }
 }
 
